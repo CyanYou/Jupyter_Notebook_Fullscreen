@@ -1,1 +1,1 @@
-# Jupyterlab-fullscreen
+# Jupyter-notebook-fullscreen
